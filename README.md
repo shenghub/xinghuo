@@ -3,10 +3,8 @@
 为了防止失联，请记住永久访问地址：**http://one.xinghuo.one** 
 
 # 一些科学上网
-> * 
 > * [GETSS](https://clients.getss.org/users/aff.php?aff=197)
-> * 撰写发布技术文稿（代码支持）
-> * 撰写发布学术论文（LaTeX 公式支持）
+> * [飞斧](https://www.feijiasu.com/aff.php?aff=1180)
 
 
 # 更多交流方式
