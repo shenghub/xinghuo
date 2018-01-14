@@ -14,10 +14,21 @@
 <br>
 <br>
 
+### 场外交易平台
+> * [OTCBTC注册链接或下方二维码](https://otcbtc.com/referrals/XIBEIDMY) 
+> * [OTCBTC注册教程-区块链小白入门买币指南](https://mp.weixin.qq.com/s/AVhsBj3Mndj4KZbnJQxMlw) 
+
+![Image](https://github.com/shenghub/xinghuo/blob/master/chunjinse_referral.png)
+
+
+
 ### 常用链接
 
 > * 非小号（看币情） https://www.feixiaohao.com/ 国内做的
 > * coinmarketcap（看币情） https://coinmarketcap.com/zh/ 更新及时  记不住的话用这个http://t.xinghuo.one/kanbi
+> * 交易所 [BIG.ONE](https://big.one) 
+> * 交易所 [火币](https://www.huobi.pro) 
+> * 交易所 [币安](https://www.binance.com/?ref=11170328) 
 <br>
 <br>
 <br>
