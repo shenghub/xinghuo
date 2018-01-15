@@ -1,6 +1,6 @@
 # 星火区块链导引页
 ------
-为了防止失联，请记住永久访问地址：**http://one.xinghuo.one** 
+为了防止失联，请记住永久访问地址：**http://one.xinghuo.one 或 http://t.xinghuo.one/one**
 <br>
 <br>
 <br>
